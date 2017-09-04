@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 { 
+    color: khaki;
+    font-family: helvetica;
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+.header {
+    background:
+    url("../resources/images/pattern.jpeg");
+    height: 120px;  
+}
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
+#brushes {
+    background-color: mediumspringgreen;
+}
+#frames {
+    background-color: lightcoral
+}
+#paint {
+    background-color: skyblue
+}
+.pricing { 
+    font-weight: bold;
+    color: blue;
+}
